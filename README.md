@@ -13,7 +13,7 @@ The different R programs in the repository are as follows:-
 |**PCA** from scratch | Lab 6-i | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_Lab_6(1).ipynb) |
 |**PCA** implementation on data | Lab 6-ii | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_Lab_6(2).ipynb) |
 |**Naive Bayes Classifier** from scratch | Lab 7| [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_LAB_7.ipynb) |
-|Different models on credit card data *CAC* | Lab 8/CAC | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_CAC.ipynb) |
+|Feature selection and regression on credit card data *CAC* | Lab 8/CAC | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_CAC.ipynb) |
 |*CAC report* | Lab 8/CAC | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_CAC%20report.pdf) |
 |*CAC runbook* | Lab 8/CAC | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_CAC_Run_Book.ipynb) |
 |**SVM** from scratch | Lab 9 | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_LAB_9.ipynb) |
