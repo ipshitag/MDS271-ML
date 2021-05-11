@@ -2,7 +2,7 @@
 
 Machine Learning Lab Exercises
 
-The different R programs in the repository are as follows:-
+The different machine learning algorithms and tasks, executed using python in the repository are as follows:-
 |  Topic  | Lab | Link |
 :--------:|------:|-------:|
 |**Data Exploration** using Parametric methods | Lab 1 | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_LAB_1.ipynb) |
