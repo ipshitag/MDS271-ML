@@ -21,4 +21,4 @@ The different machine learning algorithms and tasks, executed using python in th
 |**SVM** from scratch | Lab 9 | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_LAB_9.ipynb) |
 |**KNN** on *US Crime data* | Lab 10 | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_LAB_10.ipynb) |
 |**Boosting** and **Bagging** on textual data | Lab 12 | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_LAB_12.ipynb) |
-:shipit:
+
