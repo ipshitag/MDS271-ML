@@ -15,7 +15,7 @@ The different machine learning algorithms and tasks, executed using python in th
 |**Singular Value Decomposition** from scratch | Lab 11 | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_LAB_11.ipynb) |
 |**Naive Bayes Classifier** from scratch | Lab 7| [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_LAB_7.ipynb) |
 |Feature selection and regression on credit card data *CAC* | Lab 8/CAC | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_CAC.ipynb) |
-|*CAC report* | CAC | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_CAC%20report.pdf) |
+|*CAC  lab report* | CAC | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_CAC%20report.pdf) |
 |*CAC runbook* | CAC | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_CAC_Run_Book.ipynb) |
 |**Perceptron** from scratch | Lab 8 | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_LAB_8.ipynb) |
 |**SVM** from scratch | Lab 9 | [Link](https://github.com/ipshitag/MDS271-ML/blob/main/ML_LAB_9.ipynb) |
